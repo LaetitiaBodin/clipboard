@@ -1,0 +1,24 @@
+{
+  "pics" : [
+    {
+      "src": "./img/pics/logos/google.png",
+      "alt": "Logo of Google"
+    },
+    {
+      "src": "./img/pics/logos/ibm.png",
+      "alt": "Logo of IBM"
+    },
+    {
+      "src": "./img/pics/logos/microsoft.png",
+      "alt": "Logo of Microsoft"
+    },
+    {
+      "src": "./img/pics/logos/hp.png",
+      "alt": "Logo of Hewlett Packard"
+    },
+    {
+      "src": "./img/pics/logos/vector-graphics.png",
+      "alt": "Logo of Vector Graphics"
+    }
+  ]
+}

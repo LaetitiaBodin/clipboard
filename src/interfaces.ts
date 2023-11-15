@@ -22,6 +22,13 @@ export interface dlProps {
   url   : any
 }
 
+// Images
+export interface imgProps {
+  alt   ?: string,
+  cname  : string,
+  src   ?: string
+}
+
 // Logo
 export interface logoProps {
   cname : string
