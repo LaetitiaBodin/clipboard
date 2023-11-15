@@ -34,6 +34,18 @@ export interface logoProps {
   cname : string
 }
 
+// NavLink
+export interface navProps {
+  text : string,
+  url  : any
+}
+
+// SocialLink
+export interface socialProps {
+  text : string,
+  url  : any
+}
+
 // SVGs
 export interface svgProps {
   cname : string,
