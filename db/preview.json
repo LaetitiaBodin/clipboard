@@ -1,0 +1,12 @@
+{
+  "summary" : {
+    "title": "Access Clipboard anywhere",
+    "text": "Whether you're on the go, or at your computer, you can access all your Clipboard\nsnippets in a few simple clicks."
+  },
+  "pics" : [
+    {
+      "src": "./img/pics/illustrations/devices.png",
+      "alt": "Smartphone screen with a picture of a beach topped by a checked box. Tablet screen with a beach at sunset topped by a checkbox."
+    }
+  ]
+}

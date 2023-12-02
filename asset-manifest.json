@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clipboard/static/css/main.8fdd9859.css",
+    "main.js": "/clipboard/static/js/main.5958e251.js",
+    "static/media/desktop.png": "/clipboard/static/media/desktop.3d39ff8e4eec581d1f91.png",
+    "static/media/mobile.png": "/clipboard/static/media/mobile.611a5565d2de8072be1f.png",
+    "index.html": "/clipboard/index.html",
+    "static/media/preview.svg": "/clipboard/static/media/preview.bb10207e1110965060cb34fd98fdc754.svg",
+    "static/media/blacklist.svg": "/clipboard/static/media/blacklist.39dadd0034172a1e0ea410052c846968.svg",
+    "static/media/instagram.svg": "/clipboard/static/media/instagram.38c4d11dc49dc91eb0bbdfe4a710e411.svg",
+    "static/media/text.svg": "/clipboard/static/media/text.40e55dd3160295de5112e3b7c1d7bf2f.svg",
+    "static/media/twitter.svg": "/clipboard/static/media/twitter.91da14d84e31b7b1aa4cc5d63de9e14f.svg",
+    "static/media/facebook.svg": "/clipboard/static/media/facebook.d9997d97248e5298a2e80ff30c4ff262.svg",
+    "static/media/logo.svg": "/clipboard/static/media/logo.96820cf016581256eeab5a6707172255.svg",
+    "main.8fdd9859.css.map": "/clipboard/static/css/main.8fdd9859.css.map",
+    "main.5958e251.js.map": "/clipboard/static/js/main.5958e251.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fdd9859.css",
+    "static/js/main.5958e251.js"
+  ]
+}
